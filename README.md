@@ -27,7 +27,7 @@ Follow these instructions to set up and run the template on your local machine f
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/one-page-ecommerce-template.git
+   git clone https://github.com/yourusername/one-page-ecommerce-paypal.git
    cd one-page-ecommerce-template
    ```
 
